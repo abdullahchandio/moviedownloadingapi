@@ -4,12 +4,12 @@ A simple and easy-to-use API providing the latest Bollywood and Hollywood movies
 
 ## API Base URL
 
+curl https://moviedownloadingapi.vercel.app/movies
 ## Endpoints
 
-**Example Request:**
-curl https://moviedownloadingapi.vercel.app/movies
 
-**Endpoint:**
+
+
 
 # Features
 Simple and Fast: Quickly fetch the latest movie data.
@@ -18,5 +18,7 @@ Free Access: Use this API without authentication.
 License : This project is licensed under the MIT License. You’re free to use, modify, and distribute it as you see fit.
 
 #Author
-Created by Abdullah Chandio
+**Author**
+Developed by Abdullah Chandio
+**Endpoint:**
 This provides a complete guide for users of your API, including examples and endpoint documentation. Let me know if you’d like any further refinements!
