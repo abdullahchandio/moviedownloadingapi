@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Main Hoon Na",
+      "type": "Bollywood",
+      "releaseYear": 2004,
+      "poster": "http://103.87.212.46//Admin/main/images/tt0347473/poster//iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
+      "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/Main%20Hoon%20Na%20%282004%29/Main%20Hoon%20Na%20%282004%29%201080p%20WEBRip.mkv"
+    },
+    {
+      "id": 2,
+      "title": "Article 15",
+      "type": "Bollywood",
+      "releaseYear": 2019,
+      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1fwy5R8CBYemq-uRgVCXsNP6gwBtmXgp85H2urJJXD2Qy7TtiEJKhbJlvuKukCtN7XeD-tA",
+      "downloadLink": "http://103.87.212.46/Data/Movies/Basnet%20Hindi/Article%2015%20%282019%29%201080p%20WEBHD.mkv"
+    },
+    {
+      "id": 3,
+      "title": "Super 30",
+      "type": "Bollywood",
+      "releaseYear": 2023,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/29/Super_30_The_Film.jpg",
+      "downloadLink": "http://103.87.212.46/Data/Movies/Basnet%20Hindi/SUPER%2030%20%282019%29%201080p%20WEBDL.mkv"
+    },
+    {
+      "id": 4,
+      "title": "Veer-Zaara",
+      "type": "Bollywood",
+      "releaseYear": 2004,
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5CmFfqAYZjZOvppuCB1BLNHAKZGm2naQvdCcv9oTSwfctGbmYKCzvVVGnnC_yxSfjFW-5",
+      "downloadLink": "http://103.87.212.46/Data/Movies/Basnet%20Hindi/Veer%20Zaara%20%282004%29%20720p%20HDRip%20.mkv"
+    },
+    {
+      "id": 5,
+      "title": "K.G.F: Chapter 1",
+      "type": "Bollywood",
+      "releaseYear": 2024,
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBac-4dlHEaK62vvEHMMcS_PboGclwBP3Bny_k530Z_s2xoSFXFM0r_EgoPXBO5DVLT8Mr",
+      "downloadLink": "http://103.87.212.46/Data/Movies/South%20Indian%20%28Hindi%20Dubbed%29/K.G.F%20Chapter%201%20%282018%29/"
+    }
+  ]
+  
