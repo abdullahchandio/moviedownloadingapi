@@ -17,8 +17,8 @@ JSON Format: Easy integration with any front-end or back-end framework.
 Free Access: Use this API without authentication.
 License : This project is licensed under the MIT License. You’re free to use, modify, and distribute it as you see fit.
 
-#Author
+
 **Author**
-Developed by Abdullah Chandio
+## Developed by Abdullah Chandio
 **Endpoint:**
 This provides a complete guide for users of your API, including examples and endpoint documentation. Let me know if you’d like any further refinements!
