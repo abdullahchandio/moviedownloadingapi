@@ -158,5 +158,85 @@
         "releaseYear": 2016,
         "poster": null,
         "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/A%20Death%20in%20the%20Gunj%20%282016%29/"
+    },[
+    {
+        "id": 21,
+        "title": "ABCD 2",
+        "type": "Bollywood",
+        "releaseYear": 2015,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/ABCD%202%20%282015%29/"
+    },
+    {
+        "id": 22,
+        "title": "AIRLIFT",
+        "type": "Bollywood",
+        "releaseYear": 2016,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/AIRLIFT%20%282016%29/"
+    },
+    {
+        "id": 23,
+        "title": "APARICHIT 2",
+        "type": "Bollywood",
+        "releaseYear": 2003,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/APARICHIT%202%20%282003%29/"
+    },
+    {
+        "id": 24,
+        "title": "Aakhree Raasta",
+        "type": "Bollywood",
+        "releaseYear": 1986,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/Aakhree%20Raasta%20%281986%29/"
+    },
+    {
+        "id": 25,
+        "title": "Aakrosh",
+        "type": "Bollywood",
+        "releaseYear": 2010,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/Aakrosh%20%282010%29/"
+    },
+    {
+        "id": 26,
+        "title": "Aalaap",
+        "type": "Bollywood",
+        "releaseYear": 2012,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/Aalaap%20%282012%29/"
+    },
+    {
+        "id": 27,
+        "title": "Aamir",
+        "type": "Bollywood",
+        "releaseYear": 2008,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/Aamir%20%282008%29/"
+    },
+    {
+        "id": 28,
+        "title": "Aan: Men at Work",
+        "type": "Bollywood",
+        "releaseYear": 2004,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/Aan%20Men%20at%20Work%20%282004%29/"
+    },
+    {
+        "id": 29,
+        "title": "Aapla Manus",
+        "type": "Bollywood",
+        "releaseYear": 2018,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/Aapla%20Manus%20%282018%29/"
+    },
+    {
+        "id": 30,
+        "title": "Aarakshan",
+        "type": "Bollywood",
+        "releaseYear": 2011,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/Aarakshan%20%282011%29/"
     }
 ]
