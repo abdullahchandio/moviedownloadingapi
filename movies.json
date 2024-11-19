@@ -1,43 +1,162 @@
 [
     {
-      "id": 1,
-      "title": "Main Hoon Na",
-      "type": "Bollywood",
-      "releaseYear": 2004,
-      "poster": "http://103.87.212.46//Admin/main/images/tt0347473/poster//iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
-      "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/Main%20Hoon%20Na%20%282004%29/Main%20Hoon%20Na%20%282004%29%201080p%20WEBRip.mkv"
+        "id": 1,
+        "title": "Main Hoon Na",
+        "type": "Bollywood",
+        "releaseYear": 2004,
+        "poster": "http://103.87.212.46//Admin/main/images/tt0347473/poster//iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg",
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/Main%20Hoon%20Na%20%282004%29/Main%20Hoon%20Na%20%282004%29%201080p%20WEBRip.mkv"
     },
     {
-      "id": 2,
-      "title": "Article 15",
-      "type": "Bollywood",
-      "releaseYear": 2019,
-      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1fwy5R8CBYemq-uRgVCXsNP6gwBtmXgp85H2urJJXD2Qy7TtiEJKhbJlvuKukCtN7XeD-tA",
-      "downloadLink": "http://103.87.212.46/Data/Movies/Basnet%20Hindi/Article%2015%20%282019%29%201080p%20WEBHD.mkv"
+        "id": 2,
+        "title": "Article 15",
+        "type": "Bollywood",
+        "releaseYear": 2019,
+        "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1fwy5R8CBYemq-uRgVCXsNP6gwBtmXgp85H2urJJXD2Qy7TtiEJKhbJlvuKukCtN7XeD-tA",
+        "downloadLink": "http://103.87.212.46/Data/Movies/Basnet%20Hindi/Article%2015%20%282019%29%201080p%20WEBHD.mkv"
     },
     {
-      "id": 3,
-      "title": "Super 30",
-      "type": "Bollywood",
-      "releaseYear": 2023,
-      "poster": "https://upload.wikimedia.org/wikipedia/en/2/29/Super_30_The_Film.jpg",
-      "downloadLink": "http://103.87.212.46/Data/Movies/Basnet%20Hindi/SUPER%2030%20%282019%29%201080p%20WEBDL.mkv"
+        "id": 3,
+        "title": "Super 30",
+        "type": "Bollywood",
+        "releaseYear": 2023,
+        "poster": "https://upload.wikimedia.org/wikipedia/en/2/29/Super_30_The_Film.jpg",
+        "downloadLink": "http://103.87.212.46/Data/Movies/Basnet%20Hindi/SUPER%2030%20%282019%29%201080p%20WEBDL.mkv"
     },
     {
-      "id": 4,
-      "title": "Veer-Zaara",
-      "type": "Bollywood",
-      "releaseYear": 2004,
-      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5CmFfqAYZjZOvppuCB1BLNHAKZGm2naQvdCcv9oTSwfctGbmYKCzvVVGnnC_yxSfjFW-5",
-      "downloadLink": "http://103.87.212.46/Data/Movies/Basnet%20Hindi/Veer%20Zaara%20%282004%29%20720p%20HDRip%20.mkv"
+        "id": 4,
+        "title": "Veer-Zaara",
+        "type": "Bollywood",
+        "releaseYear": 2004,
+        "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5CmFfqAYZjZOvppuCB1BLNHAKZGm2naQvdCcv9oTSwfctGbmYKCzvVVGnnC_yxSfjFW-5",
+        "downloadLink": "http://103.87.212.46/Data/Movies/Basnet%20Hindi/Veer%20Zaara%20%282004%29%20720p%20HDRip%20.mkv"
     },
     {
-      "id": 5,
-      "title": "K.G.F: Chapter 1",
-      "type": "Bollywood",
-      "releaseYear": 2024,
-      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBac-4dlHEaK62vvEHMMcS_PboGclwBP3Bny_k530Z_s2xoSFXFM0r_EgoPXBO5DVLT8Mr",
-      "downloadLink": "http://103.87.212.46/Data/Movies/South%20Indian%20%28Hindi%20Dubbed%29/K.G.F%20Chapter%201%20%282018%29/"
+        "id": 5,
+        "title": "K.G.F: Chapter 1",
+        "type": "Bollywood",
+        "releaseYear": 2024,
+        "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBac-4dlHEaK62vvEHMMcS_PboGclwBP3Bny_k530Z_s2xoSFXFM0r_EgoPXBO5DVLT8Mr",
+        "downloadLink": "http://103.87.212.46/Data/Movies/South%20Indian%20%28Hindi%20Dubbed%29/K.G.F%20Chapter%201%20%282018%29/"
+    },
+    {
+        "id": 6,
+        "title": "100 Days",
+        "type": "Bollywood",
+        "releaseYear": 1991,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/100%20Days%20%281991%29/"
+    },
+    {
+        "id": 7,
+        "title": "13B Fear Has a New Address",
+        "type": "Bollywood",
+        "releaseYear": 2009,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/13B%20Fear%20Has%20a%20New%20Address%20%282009%29/"
+    },
+    {
+        "id": 8,
+        "title": "22 Yards",
+        "type": "Bollywood",
+        "releaseYear": 2019,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/22%20yards%20%282019%29/"
+    },
+    {
+        "id": 9,
+        "title": "23 March 1931: Shaheed",
+        "type": "Bollywood",
+        "releaseYear": 2002,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/23%20March%201931%20Shaheed%20%20%282002%29/"
+    },
+    {
+        "id": 10,
+        "title": "3 Bachelors",
+        "type": "Bollywood",
+        "releaseYear": 2012,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/3%20Bachelors%20%282012%29/"
+    },
+    {
+        "id": 11,
+        "title": "3 Idiots",
+        "type": "Bollywood",
+        "releaseYear": 2009,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/3%20Idiots%20%282009%29/"
+    },
+    {
+        "id": 12,
+        "title": "31st October",
+        "type": "Bollywood",
+        "releaseYear": 2016,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/31st%20October%20%282016%29/"
+    },
+    {
+        "id": 13,
+        "title": "36 China Town",
+        "type": "Bollywood",
+        "releaseYear": 2006,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/36%20China%20Town%20%282006%29/"
+    },
+    {
+        "id": 14,
+        "title": "377 AbNormal",
+        "type": "Bollywood",
+        "releaseYear": 2019,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/377%20AbNormal%20%282019%29/"
+    },
+    {
+        "id": 15,
+        "title": "3G: A Killer Connection",
+        "type": "Bollywood",
+        "releaseYear": 2013,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/3G%20A%20Killer%20Connection%20%282013%29/"
+    },
+    {
+        "id": 16,
+        "title": "404: Error Not Found",
+        "type": "Bollywood",
+        "releaseYear": 2011,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/404%20Error%20Not%20Found%20%282011%29/"
+    },
+    {
+        "id": 17,
+        "title": "5 Weddings",
+        "type": "Bollywood",
+        "releaseYear": 2018,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/5%20Weddings%20%282018%29/"
+    },
+    {
+        "id": 18,
+        "title": "7 Din Mohabbat In",
+        "type": "Bollywood",
+        "releaseYear": 2018,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/7%20Din%20Mohabbat%20In%20%282018%29/"
+    },
+    {
+        "id": 19,
+        "title": "8 X 10 Tasveer",
+        "type": "Bollywood",
+        "releaseYear": 2009,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/8%20X%2010%20Tasveer%20%282009%29/"
+    },
+    {
+        "id": 20,
+        "title": "A Death in the Gunj",
+        "type": "Bollywood",
+        "releaseYear": 2016,
+        "poster": null,
+        "downloadLink": "http://103.87.212.46/Data/Movies/Bollywood/A%20Death%20in%20the%20Gunj%20%282016%29/"
     }
-  ]
-  
+]
